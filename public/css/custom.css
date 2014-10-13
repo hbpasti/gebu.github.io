@@ -23,7 +23,8 @@
   height: 3rem;
   width: 90%;
   margin: .3rem;
-  text-align: center;
+  margin-left: 0;
+  /* text-align: center; */
   padding: 10px 16px;
 }
 
@@ -119,4 +120,8 @@ div.postal-code {
 
 i.nav-icon {
   margin-right: 10px;
+}
+
+.sidebar {
+  text-align: left;
 }
