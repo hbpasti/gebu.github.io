@@ -1,12 +1,36 @@
-# Site settings
-title: Grupo de Estudos em Bourdieu — <abbr title="Instituto de Filosofia e Ciências Humanas">IFCH</abbr>/<abbr title="Universidade Estadual de Campinas">Unicamp</abbr>
-email: gebunicamp@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Página do Grupo de Estudos em Bourdieu do Instituto de Filosofia e Ciências Humanas da Universidade Estadual de Campinas
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://gebu.github.io" # the base hostname & protocol for your site
-twitter_username: gebunicamp
-github_username:  gebu
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
 
-# Build settings
-markdown: kramdown
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            GEBU
+tagline:          'Grupo de Estudos em Bourdieu — <abbr title="Instituto de Filosofia e Ciências Humanas">IFCH</abbr>/<abbr title="Universidade Estadual de Campinas">Unicamp</abbr>'
+description:      'Grupo de Estudos em Bourdieu — <abbr title="Instituto de Filosofia e Ciências Humanas">IFCH</abbr>/<abbr title="Universidade Estadual de Campinas">Unicamp</abbr>'
+url:              https://gebu.github.io
+baseurl:          /
+
+author:
+  name:           'Grupo de Estudos em Bourdieu — IFCH/Unicamp'
+  url:            https://twitter.com/gebunicamp
+
+paginate:         5
+
+# Custom vars
+# version:          2.1.0
+
+github:
+  repo:           https://github.com/gebu
+
+# Contact
+email: gebunicamp@gmail.com
+twitter: gebunicamp
+phone: 99999-9999
+address: 'Rua Cora Coralina, 100 - Cidade Universitária "Prof. Zeferino Vaz", Barão Geraldo, Campinas/SP'
+maps: 'https://www.google.com/maps/place/IFCH+-+Instituto+de+Filosofia+e+Ciências+Humanas+-+Cidade+Universitária,+Campinas+-+SP,+República+Federativa+do+Brasil/@-22.815013,-47.068247,17z'
+
+kramdown:
+  auto_ids:      false
