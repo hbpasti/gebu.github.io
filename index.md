@@ -48,7 +48,8 @@ similares.
   </div>
   <div class="cnt">
     <span title="Telefone" class="tel">+55(19)3521-1653</span>
-    <a title="Email" class="email">gebunicamp@gmail.com</a>
+    <span title="Email" class="email"><a
+    title="Email">gebunicamp@gmail.com</a></span>
   </div>
 </div>
 
