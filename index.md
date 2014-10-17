@@ -35,7 +35,8 @@ similares.
   <div class="fn org">Grupo de Estudos em Bourdieu</div>
   <div class="adr">
     <div class="org"><abbr title="Instituto de Filosofia e Ciências Humanas">IFCH</abbr>/<abbr title="Universidade Estadual de Campinas">Unicamp</abbr></div>
-    <div class="street-address">R. Cora Coralina, 100</div>
+    <div title="Endereço" class="street-address">
+      R. Cora Coralina, 100</div>
     <div>
       <span class="locality">Campinas</span>/ 
       <abbr class="region" title="São Paulo">SP</abbr> &mdash;
