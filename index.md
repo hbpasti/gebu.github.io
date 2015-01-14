@@ -28,7 +28,7 @@ similares.
 <!-- * <i class="fa fa-map-marker"></i> [{{ site.address }}]({{ site.maps }}) -->
 <!-- * <i class="fa fa-phone"></i> {{ site.phone }} -->
 <!-- * <i class="fa fa-envelope"></i> [{{ site.email }}](mailto:{{ site.email }}) -->
-<!-- * <i class="fa fa-twitter"></i>[@gebunicamp](https://twitter.com/gebunicamp) -->
+<!-- * <i class="fa fa-twitter"></i>[@gebunicamp](//twitter.com/gebunicamp) -->
 <!-- {: .lista-contato} -->
 
 <div id="hcard-gebu" class="vcard">
@@ -59,6 +59,8 @@ similares.
 
 
 
-[link-lattes]: http://dgp.cnpq.br/dgp/espelhogrupo/8615599726921024 "Grupo de Estudos em Bourdieu no DIretório dos Grupos de Pesquisa no Brasil Lattes" 
+[link-lattes]: //dgp.cnpq.br/dgp/espelhogrupo/8615599726921024 "Grupo de Estudos em Bourdieu no Diretório dos Grupos de Pesquisa no Brasil Lattes" 
 
-[link-ppg]: http://www.ifch.unicamp.br/pos "Programa de Pós-Graduação do Instituto de Filosofia e Ciências Humanas da Universidade Estadual de Campinas"
+[link-ppg]: //www.ifch.unicamp.br/pos "Programa de Pós-Graduação do Instituto de Filosofia e Ciências Humanas da Universidade Estadual de Campinas"
+
+*[CNPq]: Conselho Nacional de Desenvolvimento Científico e Tecnológico
