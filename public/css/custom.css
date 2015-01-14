@@ -100,18 +100,18 @@ div.postal-code {
   margin-left: 1rem;
 }
 
-.tel,.email {
+.icon-tel,.icon-email {
   display: block;
 }
 
-.tel:before {
+.icon-tel:before {
   content: "\f095";
 	font-family: FontAwesome;
   display: inline;
   padding-right: 10px;
 }
 
-.email:before {
+.icon-email:before {
   content: "\f0e0";
 	font-family: FontAwesome;
   display: inline;
@@ -124,4 +124,8 @@ i.nav-icon {
 
 .sidebar {
   text-align: left;
+}
+
+.geo {
+  display: none;
 }
