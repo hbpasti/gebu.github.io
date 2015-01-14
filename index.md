@@ -44,13 +44,16 @@ similares.
       <div class="postal-code">
         <abbr class="postal-code-label" title="Código de Endereçamento Postal">CEP</abbr>:
         <span class="postal-code">13083-896</span>
+        <span class="geo">-22.815013,-47.068247</span>
       </div>
     </div>
   </div>
   <div class="cnt">
-    <span title="Telefone" class="tel">+55(19)3521-1653</span>
-    <span title="Email" class="email"><a
-    title="Email">gebunicamp@gmail.com</a></span>
+  <span class="icon-tel" title="Telefone"><a title="Telefone"
+  class="tel" href="tel:+551935211653">+55 (19) 3521-1653</a></span>
+  <span class="icon-email" title="Email"><a title="Email"
+  class="email"
+  href="mailto:gebunicamp@gmail.com">gebunicamp@gmail.com</a></span>
   </div>
 </div>
 
