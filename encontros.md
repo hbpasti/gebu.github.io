@@ -8,7 +8,7 @@ icon: calendar
 # 2015
 {: .ano-corrente}
 
-## 3 de Junho de 2015
+## 16 de Junho de 2015, 18h
 
 ### "Reprodução/Transformação Social"
 
