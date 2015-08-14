@@ -8,6 +8,10 @@ icon: calendar
 # 2015
 {: .ano-corrente}
 
+# 3 a 5 de novembro de 2015
+
+### [2º Encontro de Estudos em Pierre Bourdieu]({{baseurl}}/encontros/2eepb)
+
 ## 16 de Junho de 2015, 18h
 
 ### "Reprodução/Transformação Social"
