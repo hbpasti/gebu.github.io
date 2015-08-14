@@ -13,7 +13,7 @@ title:
 tagline:          'Grupo de Estudos em Bourdieu — <abbr title="Instituto de Filosofia e Ciências Humanas">IFCH</abbr>/<abbr title="Universidade Estadual de Campinas">Unicamp</abbr>'
 description:      'Grupo de Estudos em Bourdieu — <abbr title="Instituto de Filosofia e Ciências Humanas">IFCH</abbr>/<abbr title="Universidade Estadual de Campinas">Unicamp</abbr>'
 url:              https://gebu.github.io
-baseurl:          /
+baseurl:          //gebu.github.io
 
 author:
   name:           'Grupo de Estudos em Bourdieu — IFCH/Unicamp'
