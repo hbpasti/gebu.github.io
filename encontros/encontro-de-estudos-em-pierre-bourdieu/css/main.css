@@ -1,0 +1,42 @@
+/*
+Error: Invalid CSS after "@charset "utf-8"": expected "{", was ";"
+        on line 4 of encontros/encontro-de-estudos-em-pierre-bourdieu/css/main.scss
+
+1: ---
+2: # Only the main Sass file needs front matter (the dashes are enough)
+3: ---
+4: @charset "utf-8";
+5: 
+6: 
+7: 
+8: // Our variables
+9: $base-font-family: "Noticia Text",Georgia, serif;
+
+Backtrace:
+encontros/encontro-de-estudos-em-pierre-bourdieu/css/main.scss:4
+/home/henrique/.rvm/gems/ruby-2.1.5/gems/sass-3.4.16/lib/sass/scss/parser.rb:1162:in `expected'
+/home/henrique/.rvm/gems/ruby-2.1.5/gems/sass-3.4.16/lib/sass/scss/parser.rb:1098:in `expected'
+/home/henrique/.rvm/gems/ruby-2.1.5/gems/sass-3.4.16/lib/sass/scss/parser.rb:1093:in `tok!'
+/home/henrique/.rvm/gems/ruby-2.1.5/gems/sass-3.4.16/lib/sass/scss/parser.rb:638:in `block'
+/home/henrique/.rvm/gems/ruby-2.1.5/gems/sass-3.4.16/lib/sass/scss/parser.rb:632:in `ruleset'
+/home/henrique/.rvm/gems/ruby-2.1.5/gems/sass-3.4.16/lib/sass/scss/parser.rb:657:in `block_child'
+/home/henrique/.rvm/gems/ruby-2.1.5/gems/sass-3.4.16/lib/sass/scss/parser.rb:647:in `block_contents'
+/home/henrique/.rvm/gems/ruby-2.1.5/gems/sass-3.4.16/lib/sass/scss/parser.rb:117:in `stylesheet'
+/home/henrique/.rvm/gems/ruby-2.1.5/gems/sass-3.4.16/lib/sass/scss/parser.rb:42:in `parse'
+/home/henrique/.rvm/gems/ruby-2.1.5/gems/sass-3.4.16/lib/sass/engine.rb:403:in `_to_tree'
+/home/henrique/.rvm/gems/ruby-2.1.5/gems/sass-3.4.16/lib/sass/engine.rb:378:in `_render_with_sourcemap'
+/home/henrique/.rvm/gems/ruby-2.1.5/gems/sass-3.4.16/lib/sass/engine.rb:295:in `render_with_sourcemap'
+/home/henrique/.rvm/gems/ruby-2.1.5/gems/sass-3.4.16/lib/sass/exec/sass_scss.rb:410:in `run'
+/home/henrique/.rvm/gems/ruby-2.1.5/gems/sass-3.4.16/lib/sass/exec/sass_scss.rb:63:in `process_result'
+/home/henrique/.rvm/gems/ruby-2.1.5/gems/sass-3.4.16/lib/sass/exec/base.rb:52:in `parse'
+/home/henrique/.rvm/gems/ruby-2.1.5/gems/sass-3.4.16/lib/sass/exec/base.rb:19:in `parse!'
+/home/henrique/.rvm/gems/ruby-2.1.5/gems/sass-3.4.16/bin/scss:13:in `<top (required)>'
+/home/henrique/.rvm/gems/ruby-2.1.5/bin/scss:23:in `load'
+/home/henrique/.rvm/gems/ruby-2.1.5/bin/scss:23:in `<main>'
+/home/henrique/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'
+/home/henrique/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Invalid CSS after \"@charset \"utf-8\"\": expected \"{\", was \";\"\A         on line 4 of encontros/encontro-de-estudos-em-pierre-bourdieu/css/main.scss\A \A 1: ---\A 2: # Only the main Sass file needs front matter (the dashes are enough)\A 3: ---\A 4: @charset \"utf-8\";\A 5: \A 6: \A 7: \A 8: // Our variables\A 9: $base-font-family: \"Noticia Text\",Georgia, serif;"; }

@@ -10,7 +10,7 @@ icon: calendar
 
 # 3 a 5 de novembro de 2015
 
-### [2º Encontro de Estudos em Pierre Bourdieu]({{baseurl}}/encontros/2eepb)
+### [2º Encontro de Estudos em Pierre Bourdieu]({{ site.baseurl }}encontros/2eepb)
 
 ## 16 de Junho de 2015, 18h
 
@@ -45,4 +45,4 @@ Press Universitaire de France, 2014.
 
 ## 03 e 04 de dezembro
 
-### [Encontro de Estudos em Pierre Bourdieu]({{ base.site.url }}/encontro-de-estudos-em-pierre-bourdieu/ "Página do Encontro de Estudos em Pierre Bourdieu")
+### [Encontro de Estudos em Pierre Bourdieu]({{ site.baseurl }}encontros/encontro-de-estudos-em-pierre-bourdieu/ "Página do Encontro de Estudos em Pierre Bourdieu")
