@@ -5,13 +5,7 @@ title: Sobre
 
 # Sobre
 
-O [Grupo de Estudos em Bourdieu][link-lattes] foi credenciado pelo
-CNPq em 2014. Formado por docentes e alunos do [Programa de
-Pós-Graduação do Instituto de Filosofia e Ciências Sociais da <abbr
-title="Universidade Estadual de Campinas">Unicamp</abbr>][link-ppg],
-o grupo tem por foco o estudo da obra de Pierre Bourdieu e suas
-intersecções críticas com outros autores que lidam com temáticas
-similares. 
+O [Grupo de Estudos em Bourdieu](//dgp.cnpq.br/dgp/espelhogrupo/8615599726921024 "Grupo de Estudos em Bourdieu no Diretório dos Grupos de Pesquisa no Brasil Lattes") foi credenciado pelo CNPq em 2014. Formado por docentes e alunos do [Programa de Pós-Graduação do Instituto de Filosofia e Ciências Sociais da <abbr title="Universidade Estadual de Campinas">Unicamp</abbr>](//www.ifch.unicamp.br/pos "Programa de Pós-Graduação do Instituto de Filosofia e Ciências Humanas da Universidade Estadual de Campinas"), o grupo tem por foco o estudo da obra de Pierre Bourdieu e suas intersecções críticas com outros autores que lidam com temáticas similares. 
 
 [Saiba mais sobre nossas pesquisas...]({{ site.base.url }}/pesquisa)
 
@@ -58,9 +52,5 @@ similares.
 </div>
 
 
-
-[link-lattes]: //dgp.cnpq.br/dgp/espelhogrupo/8615599726921024 "Grupo de Estudos em Bourdieu no Diretório dos Grupos de Pesquisa no Brasil Lattes" 
-
-[link-ppg]: //www.ifch.unicamp.br/pos "Programa de Pós-Graduação do Instituto de Filosofia e Ciências Humanas da Universidade Estadual de Campinas"
 
 *[CNPq]: Conselho Nacional de Desenvolvimento Científico e Tecnológico
