@@ -1,0 +1,14 @@
+name:         Encontro de estudos em Pierre Bourdieu
+description:  Página do encontro de estudos em Pierre Bourdieu
+title:        Encontro de estudos em Pierre Bourdieu
+date:         3 e 4 de dezembro de 2014
+author:
+  name:       Grupo de Estudos em Bourdieu 
+  email:      gebunicamp@gmail.com
+brand:        <abbr title="Grupo de Estudos em Bourdieu do Instituto de Filosofia e Ciências Humanas da Universidade Estadual de Campinas">GEBu</abbr>
+permalink:    pretty
+markdown:     kramdown
+exclude:      ['.rvmrc', '.rbenv-version', 'README.md', 'Rakefile', 'changelog.md']
+highlighter:  pygments
+# During production, we better set the url to localhost:
+baseurl:          /encontro-de-estudos-em-pierre-bourdieu
